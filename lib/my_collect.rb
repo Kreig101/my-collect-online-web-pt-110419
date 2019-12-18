@@ -6,7 +6,6 @@ while i < arugments.length
   i += 1
 end
 return fights
-
 end
 
 
